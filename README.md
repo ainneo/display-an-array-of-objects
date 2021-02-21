@@ -1,2 +1,9 @@
-# About this project
-This pet directory, is a simple project built with html, css, and javascript and shows you how you can display an array of objects.
+# display-an-array-of-objects
+## Description
+This project shows you how to display an array of objects with vanilla JavaScript
+
+## Technologies Used
+* JavaScript
+* CSS3
+* HTML5
+
